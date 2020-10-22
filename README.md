@@ -1,2 +1,4 @@
-# bmp_to_webp_anim
+# BMP to WebP
 Simple WebP animation creator from BMP images
+
+
